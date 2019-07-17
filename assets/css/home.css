@@ -1,0 +1,34 @@
+.home-headline h1 {
+  /*margin: 15px auto;*/
+  font-size: 32px;
+  display: block;
+}
+
+.home-headline, .lists-icons {
+  margin: 30px auto;
+  padding: 100px 0px;
+}
+
+.list-icon {
+  margin-top: 27px;
+  position: relative;
+  background: #FFF;
+  padding: 30px 10px 9px 10px;
+  text-align: center;
+}
+
+.lists-icons {
+  background-color: rgb(221,221,221);
+}
+
+.image-icon {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+
+.image-icon img {
+  width: 30%;
+  margin-bottom: 25px;
+}
+

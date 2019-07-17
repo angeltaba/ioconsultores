@@ -1,0 +1,14 @@
+header {
+  min-height: 56px;
+  position: relative;
+  overflow: hidden;
+}
+
+.navbar.navbar-light {
+  background: #FFF;
+}
+
+.nav-logo {
+  width: 300px;
+}
+
