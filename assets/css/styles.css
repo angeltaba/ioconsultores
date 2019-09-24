@@ -4,3 +4,72 @@
   }
 }
 
+/* ------------------------- empiezan estilos */
+.body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section.conten-menu-head .navbar li{
+  font-weight: bold;
+}
+
+section.conten-menu-head .navbar li{
+  font-weight: bold;
+}
+section.home-headline h1{
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(17,21,63);
+}
+section.home-headline p{
+font-size: 17px;
+/* color: rgb(102, 102, 102); */
+color: rgb(130, 132, 132)
+}
+section.lists-icons{
+  padding-top: 50px;
+  scroll-padding-bottom: 30px;
+}
+section.lists-icons .list-icon{
+width: 100%;
+height: 100%;
+}
+section.lists-icons .list-icon div,p{
+  align-items: center;
+  }
+section.lists-icons p{
+font-size: 17px;
+color: rgb(130, 132, 132);
+}
+section.goals .talent-goals{
+padding-right: 70px;
+padding-left: 70px;
+}
+section.goals .talent-goals h6,h5{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+section.goals .talent-goals .p-1{
+margin-top: 50px;  
+}
+section.goals .talent-goals p,li{
+  font-size: 15px;
+}
+section.inovation h5{
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(17,21,63);
+}
+section.inovation p,li{
+font-size: 15px;
+}
+section.know-more{
+color: rgb(84, 85, 85);
+}
+section.know-more button{
+  color: rgb(84, 85, 85);
+  }
+section.know-us h3,p{
+  color: rgb(84, 85, 85);
+}
+section.blog h3{
+  color: rgb(84, 85, 85);
+}
