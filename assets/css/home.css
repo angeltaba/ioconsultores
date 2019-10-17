@@ -1,34 +1,96 @@
-.home-headline h1 {
-  /*margin: 15px auto;*/
-  font-size: 32px;
-  display: block;
+
+.home-headline h1{
+  font-size: 2rem;
 }
 
 .home-headline, .lists-icons {
-  margin: 30px auto;
-  padding: 100px 0px;
+  padding: 100px 0;
 }
-
+.lists-icons {
+  background-color: rgb(245,245,245);
+}
 .list-icon {
-  margin-top: 27px;
   position: relative;
   background: #FFF;
   padding: 30px 10px 9px 10px;
   text-align: center;
+  height: 100% !important;
 }
-
-.lists-icons {
-  background-color: rgb(221,221,221);
-}
-
 .image-icon {
   text-align: center;
   width: 100%;
   display: block;
 }
-
 .image-icon img {
   width: 30%;
   margin-bottom: 25px;
+}
+.inovation{
+  background-color: #9d9d9d;
+}
+.inovation h2{
+  letter-spacing: 2px;
+}
+.inovation p{
+  color: #e7e7e7;
+  font-size: 1.2rem;
+}
+
+.inovation ul{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.inovation  li{
+  color: #e7e7e7;
+  font-size: 1.2rem;
+}
+
+.goals{
+  background-color: rgb(17,21,63)
+}
+
+.goals .content-image{
+  background-color:   #9CE0C0;
+}
+.goals .content-image img{
+  margin-top: 10rem;
+}
+
+section.lists-icons .list-icon div,p{
+  align-items: center;
+}
+
+section.goals .talent-goals {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 5rem;
+}
+
+section.goals .talent-goals h2{
+  color:#9CE0C0;
+  font-weight: 600;
+  text-align: center;
+  font-size: 1.6rem;
+  margin-bottom: 3rem;
+}
+section.goals .talent-goals h2 span{
+  display: block;
+  font-size: 2.3rem;
+}
+section.goals .talent-goals p{
+  color: #FFFFFF;
+}
+section.goals .talent-goals p,
+section.goals .talent-goals li,
+section.goals .talent-goals ul{
+  width: 100%;
+}
+
+section.goals .talent-goals ul{
+  color:#9ce0c0;
 }
 
